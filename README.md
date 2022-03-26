@@ -1,1 +1,1 @@
-# Covid10_SEIRV-Model
+# Covid19_SEIRV-Model
